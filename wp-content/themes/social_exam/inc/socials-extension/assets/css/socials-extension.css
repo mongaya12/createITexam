@@ -1,0 +1,29 @@
+.socials-extension__shortcode-wrapper {
+	display: inline-block;
+}
+
+.socials-extension__shortcode-wrapper ul {
+	margin: 0;
+	padding: 0;
+}
+
+.socials-extension__shortcode-wrapper ul.horizontal li {
+    float: left;
+    margin: 0 5px;
+}
+
+.socials-extension__shortcode-wrapper ul.horizontal {
+    list-style: none;
+}
+
+.socials-extension__shortcode-wrapper ul.large li i{
+	font-size: 25px;
+}
+
+.socials-extension__shortcode-wrapper ul.vertical {
+    list-style: none;
+}
+
+.socials-extension__shortcode-wrapper ul.vertical li{
+    margin: 5px 0;
+}

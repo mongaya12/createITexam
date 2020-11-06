@@ -1,0 +1,2 @@
+
+<a class="twitter-timeline" data-width="<?php echo esc_html( $atts['width']); ?>" data-height="<?php echo esc_html($atts['height']); ?>" data-theme="<?php echo esc_html($atts['theme']); ?>" href="https://twitter.com/<?php echo esc_html($screen_name); ?>">Tweets by @<?php echo esc_html($screen_name); ?></a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
