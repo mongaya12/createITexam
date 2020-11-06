@@ -8,4 +8,3 @@ include get_template_directory() . '/inc/socials-extension/class-socialExtension
 
 
 new socialExtensionShortCodes();
-// new shortCodeExtension();
